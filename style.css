@@ -1,0 +1,19 @@
+table{
+    font-family : Helvetica, sans-serif;
+     border-collapse: collapse;
+   background-position: center;
+    border-width   : 1px;
+      border-color   : #2695A6;
+    
+    
+}
+     
+th,td {
+     
+    font-weight     : 800;
+  
+    
+}
+h1{
+     border-color   : #2695A6
+}
